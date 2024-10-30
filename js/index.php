@@ -1,0 +1,2 @@
+<?php
+// Lemon is golden ;)

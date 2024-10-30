@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LemonNews\n"
+"POT-Creation-Date: 2014-02-22 22:04-0300\n"
+"PO-Revision-Date: 2014-02-22 22:06-0300\n"
+"Last-Translator: Vitor Rigoni <vitor@lemonjuicewebapps.com>\n"
+"Language-Team: Lemon Juice Web Apps <contact@lemonjuicewebapps.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/"
+"lemonnews\n"
+"X-Poedit-SearchPath-1: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/"
+"lemonnews/classes\n"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:40
+msgid "E-mail successfully deleted."
+msgstr "E-mail apagado com sucesso."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:188
+msgid "Invalid e-mail."
+msgstr "E-mail inválido."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:193
+msgid "The selected e-mail is not registered in our database."
+msgstr "O e-mail selecionado não está registrado em nosso banco de dados."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:224
+msgid "Unavailable export file type."
+msgstr "Tipo de arquivo inválido."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:239
+msgid ""
+"There was a problem writing the file. Please try reinstalling this plugin or "
+"contact us at contact@lemonjuicewebapps.com"
+msgstr ""
+"Houve um problema ao escrever o arquivo. Por favor tente re-instalar este "
+"plugin ou entre em contato conosco em contact@lemonjuicewebapps.com"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:248
+msgid "Options updated successfully!"
+msgstr "Configurações salvas com sucesso!"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:265
+msgid "E-mail change saved successfully!"
+msgstr "Alteração no e-mail salva com sucesso!"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:266
+msgid "There was a problem with your request!"
+msgstr "Houve um problema com a sua requisição!"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:267
+msgid "Are you sure you want to delete this record?"
+msgstr "Deseja realmente apagar este registro?"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:268
+msgid "Yes"
+msgstr "Sim"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-admin.php:269
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-export-manager.php:61
+msgid "Date Created"
+msgstr "Data de Criação"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-export-manager.php:61
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:81
+msgid "Date Modified"
+msgstr "Data de Alteração"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-export-manager.php:106
+msgid "Full list of registered e-mails"
+msgstr "Lista completa de e-mails registrados"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-installer.php:44
+msgid ""
+"There was an <b>error</b> while installing your plugin. Please contact "
+"LemonJuice about your problem at: contact@lemonjuicewebapps.com"
+msgstr ""
+"Houve um <b>erro</b> ao instalar seu plugin. Por favor, entre em contato com "
+"a LemonJuice sobre este problema em: contact@lemonjuicewebapps.com"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-widget.php:104
+msgid "There was a security problem with your request."
+msgstr "Houve um problema de segurança com a sua requisição."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-widget.php:107
+msgid "Please insert a valid e-mail adress."
+msgstr "Por favor, insira um e-mail válido."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-widget.php:110
+msgid "This e-mail address is already registered!"
+msgstr "Este e-mail já está registrado."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-widget.php:113
+msgid "There was an error while registering your e-mail."
+msgstr "Houve um erro ao registrar seu e-mail."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/classes/class-lemon-news-widget.php:116
+msgid "E-mail successfully registered!"
+msgstr "E-mail cadastrado com sucesso!"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-email-list-table.php:6
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:92
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:140
+msgid "Click here to edit this e-mail address"
+msgstr "Clique aquí para editar este endereço de e-mail"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-email-list-table.php:7
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:93
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:141
+msgid "Click here to remove this record"
+msgstr "Clique aqui para apagar esse registro"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-flash.php:5
+msgid "No message sent."
+msgstr "Nenhuma informação enviada."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:6
+msgid "Total number of registered e-mails"
+msgstr "Total de e-mails cadastrados"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:14
+msgid "LemonNews Options"
+msgstr "Opções LemonNews"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:17
+msgid "E-mails List"
+msgstr "Lista de E-mails"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:20
+msgid "E-mail Search"
+msgstr "Busca por E-mail"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:23
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:154
+msgid "Export List"
+msgstr "Exportar Lista"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:26
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:165
+msgid "Special Thanks"
+msgstr "Agradecimentos especiais"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:29
+msgid "Donate"
+msgstr "Doações"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:32
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:200
+msgid "Help"
+msgstr "Ajuda"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:40
+msgid "General options so you can customize your plugin ;)"
+msgstr "Opções gerais para que você possa customizar seu plugin ;)"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:43
+msgid "Will be displayed above the registration form on your site"
+msgstr "Aparecerá acima do formulário de cadastro em seu site"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:43
+msgid "User Help"
+msgstr "Ajuda ao usuário"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:48
+msgid "Style"
+msgstr "Estilo"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:50
+msgid "Blank"
+msgstr "Vazio"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:59
+msgid "Insert your custom style here."
+msgstr "Insira aqui seu estilo customizado."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:60
+msgid ""
+"All our css classes are described below so it makes it easier to customize."
+msgstr ""
+"Todas as nossas classes CSS estão descritas abaixo para facilitar a "
+"customização."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:65
+msgid "Submit"
+msgstr "Enviar"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:75
+msgid "List of registered e-mails"
+msgstr "Lista de e-mails cadastrados"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:79
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:131
+msgid "ID"
+msgstr "ID"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:80
+msgid "Date Registered"
+msgstr "Data de Cadastro"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:82
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:132
+msgid "E-mail"
+msgstr "E-mail"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:83
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:133
+msgid "Actions"
+msgstr "Ações"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:99
+msgid "No e-mails registered yet =("
+msgstr "Nenhum e-mail cadastrado ainda =("
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:116
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:119
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:120
+msgid "Search"
+msgstr "Busca"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:125
+msgid "Nothing found =("
+msgstr "Nada foi encontrado =("
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:127
+msgid "Search Results"
+msgstr "Resultados da Busca"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:155
+msgid "Export full list as Microsoft Excel file"
+msgstr "Exportar lista completa como um arquivo do Microsoft Excel"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:156
+msgid "Export full list as CSV file"
+msgstr "Exportar lista completa como um arquivo CSV"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:157
+msgid "Export full list as TXT file"
+msgstr "Exportar lista completa como um arquivo TXT"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:158
+msgid "Export full list as XML file"
+msgstr "Exportar lista completa como um arquivo XML"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:166
+msgid ""
+"We'd like to thank many of our fellow developers who directly or indirectly "
+"helped me build this plugin."
+msgstr ""
+"Gostaria de agradecer aos nossos companheiros developers que direta ou "
+"indiretamente me ajudaram a construir este plugin."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:180
+msgid ""
+"I have put a lot of effort into building this plugin for you the best way I "
+"could. If this plugin is helping you making your life easier, consider "
+"buying me a beer =)"
+msgstr ""
+"Deu um bocado de trabalho construir este plugin, e eu o fiz da melhor "
+"maneira que poderia fazer. Se este plugin está te ajudando a tornar sua vida "
+"mais simples, considere me pagar uma cerveja =)"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:201
+msgid "There are three different ways to insert this plugin on your website:"
+msgstr "Existem três formas de inserir este plugin em seu site:"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:204
+msgid "First way: Widget"
+msgstr "Primeira forma: Widget"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:205
+msgid ""
+"LemonNews can be used as a widget. Just add it to your sidebar from the "
+"widgets panel."
+msgstr ""
+"LemonNews pode ser usado como um widget. Basta adiciona-lo à sua sidebar do "
+"painel widgets."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:208
+msgid "Second way: Shortcode"
+msgstr "Segunda Forma: Shortcode"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:209
+msgid ""
+"We have conveniently added a new button to your TinyMCE Editor, so you can "
+"add LemonNews directly inside a new post, for example."
+msgstr ""
+"Nós, convenientemente, adicionamos um novo botão ao seu editor TinyMCE para "
+"que você possa adicionar o LemonNews diretamente dentro de um novo post, por "
+"exemplo."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:212
+msgid "Third way: The way of the warrior"
+msgstr "Terceira forma: O caminho do guerreiro"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:213
+msgid ""
+"So, I see you want the hard mode? You want to prove the true warrior you "
+"are. I like that. Place the code below anywhere you want between php tags in "
+"your theme files and you're good to go!"
+msgstr ""
+"Então, você quer o \"hard mode\"? Você quer provar o verdadeiro guerreiro "
+"que você é, certo? Eu gosto disso. Insira o código abaixo aonde quiser entre "
+"tags php em seu tema e pronto!"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:220
+msgid "HOLY CRABS! NOTHING WORKS!!"
+msgstr "DESGRAMA! NADA FUNCIONA!!"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:221
+msgid ""
+"Please relax and e-mail us at contact@lemonjuicewebapps.com. We will gladly "
+"do everything in our reach to help you!"
+msgstr ""
+"Por favor, relaxe e entre em contato conosco através do e-mail "
+"contact@lemonjuicewebapps.com. Nós iremos fazer tudo o que estiver ao nosso "
+"alcance para ajuda-lo!"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:224
+msgid ""
+"Note: The LemonNews registration form will only show up once every page. E."
+"g.: if your post has the shortcode and your sidebar has the widget it'll "
+"only show up inside your post, and not in your sidebar."
+msgstr ""
+"Nota: O formulário LemonNews somente aparecerá uma vez em cada página. "
+"Exemplo: se seu post possui o shortcode e sua sidebar possui o widget o "
+"formulário LemonNews aparecerá somente em seu post, e não em sua sidebar."
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-admin.php:230
+msgid "Developed by Vitor Rigoni @ LemonJuice Web Apps"
+msgstr "Desenvolvido por Vitor Rigoni @ LemonJuice Web Apps"
+
+#: /Users/vitorrigoni/Sites/wptest/wp-content/plugins/lemonnews/views/view-lemon-news-widget.php:6
+msgid "Send"
+msgstr "Enviar"
